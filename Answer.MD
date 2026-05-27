@@ -42,11 +42,11 @@
 請貼出你對 AI 下達過最有效的 3 個 Prompt：
 
 ```log
-Prompt A： ![alt text](image.png)
+Prompt A：幫我詳細分析程式碼功能及如何測試
 
-Prompt B： 
+Prompt B：幫我依照剛剛找到的5大壞味道修改並且重購整份程式碼
 
-Prompt C：
+Prompt C：請幫我修正最後程式碼不會將記錄存入book.json的問題
 ```
 
 ### 2.2 AI 錯誤處理
@@ -99,6 +99,11 @@ Updated
     "title": "早安老師",
     "isbn": "12345679",
     "status": "available"
+  },
+  {
+    "title": "午安老師",
+    "isbn": "123654",
+    "status": "borrowed"
   }
 ]
 ```
@@ -112,7 +117,8 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
-6fa86de (HEAD -> main) Quiz_programTest
+bcb77d9 (HEAD -> main, origin/main) AnswerUpdate
+6fa86de Quiz_programTest
 61f619a Quiz V1.0
 ```
 

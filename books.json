@@ -8,5 +8,10 @@
     "title": "早安老師",
     "isbn": "12345679",
     "status": "available"
+  },
+  {
+    "title": "午安老師",
+    "isbn": "123654",
+    "status": "borrowed"
   }
 ]

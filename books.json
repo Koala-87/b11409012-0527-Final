@@ -1,0 +1,12 @@
+[
+  {
+    "title": "寫給邊緣人的Python",
+    "isbn": "978986502",
+    "status": "borrowed"
+  },
+  {
+    "title": "早安老師",
+    "isbn": "12345679",
+    "status": "available"
+  }
+]
